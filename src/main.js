@@ -428,7 +428,6 @@ const iconSearch = document.querySelector('.flaticon-lupa');
 iconSearch.addEventListener('click', () => {
   searchInput.focus();
 });
-<<<<<<< HEAD
 // const stats = [];
 // for(let i = 0; i < data.pokemon.length; i += 1) {
 // data.pokemon.forEach((eachPokemon) => {
@@ -440,5 +439,3 @@ iconSearch.addEventListener('click', () => {
 //   sectionContent.innerHTML = '';
 //   allDataByGenerations();
 // });
-=======
->>>>>>> 92ebf0e947fa76a8c248837110970fe60751b478
